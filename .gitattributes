@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 dot_traffic_2015.txt.gz filter=lfs diff=lfs merge=lfs -text
+Traffic[[:space:]]Data[[:space:]]Visualisation.twbx filter=lfs diff=lfs merge=lfs -text
